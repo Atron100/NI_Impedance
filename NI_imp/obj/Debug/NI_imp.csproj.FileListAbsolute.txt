@@ -1,0 +1,13 @@
+E:\Projects\myprj\NI_imp\NI_imp\bin\Debug\NI_imp.exe.config
+E:\Projects\myprj\NI_imp\NI_imp\bin\Debug\NI_imp.exe
+E:\Projects\myprj\NI_imp\NI_imp\bin\Debug\NI_imp.pdb
+E:\Projects\myprj\NI_imp\NI_imp\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+E:\Projects\myprj\NI_imp\NI_imp\bin\Debug\NationalInstruments.MStudioCLM.dll
+E:\Projects\myprj\NI_imp\NI_imp\bin\Debug\Ivi.Visa.dll
+E:\Projects\myprj\NI_imp\NI_imp\bin\Debug\Ivi.Visa.xml
+E:\Projects\myprj\NI_imp\NI_imp\obj\Debug\NI_imp.csprojResolveAssemblyReference.cache
+E:\Projects\myprj\NI_imp\NI_imp\obj\Debug\NI_imp.impedance.resources
+E:\Projects\myprj\NI_imp\NI_imp\obj\Debug\NI_imp.Properties.Resources.resources
+E:\Projects\myprj\NI_imp\NI_imp\obj\Debug\NI_imp.csproj.GenerateResource.Cache
+E:\Projects\myprj\NI_imp\NI_imp\obj\Debug\NI_imp.exe
+E:\Projects\myprj\NI_imp\NI_imp\obj\Debug\NI_imp.pdb
